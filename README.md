@@ -16,7 +16,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-    - uses: yurisouza/rancher-2x-actions@2.0.2
+    - uses: yurisouza/rancher-2x-actions@1.2.0
       with:
         rancher_url: https://rancher.test.de
         rancher_token: ${{ secrets.RANCHER_BEARER_TOKEN }}
