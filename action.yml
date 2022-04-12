@@ -1,4 +1,4 @@
-name: Rancher Update Service
+name: Rancher Deploy v2 
 branding:
   color: blue
   icon: arrow-up-circle
